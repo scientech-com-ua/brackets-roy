@@ -1,0 +1,16 @@
+{
+    "name": "brackets-roy",
+    "title": "Roy lang support",
+    "description": "Code highlighting for Roy lang in Brackets.",
+    "homepage": "https://github.com/scientech-com-ua/brackets-roy",
+    "version": "0.0.1",
+    "author": "Scientech LLC (http://www.scientech.com.ua/)",
+    "contributors": [
+        "Jamy <jamy023@gmail.com> (https://github.com/jamy23)"
+    ],
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "keywords": ["code", "highlight", "highlighting", "highlighter", "syntax", "roy", ".roy", ".lroy"]
+}
